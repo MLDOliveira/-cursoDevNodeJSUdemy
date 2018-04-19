@@ -18,6 +18,7 @@
   "homepage": "https://github.com/MLDOliveira/cursoDevNodeJSUdemy#readme",
   "dependencies": {
     "ejs": "^2.5.8",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "mysql": "github:mysqljs/mysql"
   }
 }
