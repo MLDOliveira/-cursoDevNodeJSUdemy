@@ -8,3 +8,5 @@ Anotações
  MySql
   - vic CMD Navegar para pasta C:\Program Files\MySQL\MySQL Server 5.7\bin
   - mysql -u root -p e digitar a senha
+  - npm install consign --save
+  - npm install body-parser --save
