@@ -10,3 +10,4 @@ Anotações
   - mysql -u root -p e digitar a senha
   - npm install consign --save
   - npm install body-parser --save
+  - npm install express-validator --save
